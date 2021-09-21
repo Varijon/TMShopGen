@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tmshopgen",
+  "name": "TMShopGen",
+  "description": "TM shop generator.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Varijon"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
